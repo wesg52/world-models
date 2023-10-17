@@ -9,3 +9,11 @@ In the coming weeks we will release a minimal version of the code to run basic p
 
 ## Cite
 If you found our code our datasets helpful in your research, please cite our paper
+```
+@article{gurnee2023language,
+  title={Language Models Represent Space and Time},
+  author={Gurnee, Wes and Tegmark, Max},
+  journal={arXiv preprint arXiv:2310.02207},
+  year={2023}
+}
+```
